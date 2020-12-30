@@ -1,13 +1,15 @@
 {
   "name": "solhint-config-prettier",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Disable rules that may conflict with solhint and Prettier.",
   "main": "index.js",
   "repository": "https://github.com/odanado/solhint-config-prettier",
   "author": "odan",
   "license": "MIT",
   "files": [
-    "index.js"
+    "index.js",
+    "README.md",
+    "LICENSE"
   ],
   "devDependencies": {
     "prettier": "^2.2.1"
