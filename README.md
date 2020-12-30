@@ -4,7 +4,7 @@ Disable rules that may conflict with [solhint](https://github.com/protofire/solh
 
 ## Installation
 
-```console
+```bash
 npm install --save-dev solhint-config-prettier
 ```
 
